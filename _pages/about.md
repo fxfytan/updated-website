@@ -18,9 +18,11 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+If I could be an animal I'd probably be a lungfish because I like waking up to rain.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a science writer and editor who is interested in the stories we tell ourselves about science: how we construct them, how the sociocultural zeigeist influences it, how our humanity— our fears, hopes and passions— inexorably bleed into it. I won the inaugural [National Academy of the Sciences Schmidt Award for Excellence in Science Communication](https://www.schmidtfutures.com/national-academies-announce-inaugural-recipients-of-eric-and-wendy-schmidt-awards-for-excellence-in-science-communications-totaling-600000/) for a piece about how the [cultural anxiety of Victorian England shaped the natural history of the bee orchid](https://caltechletters.org/viewpoints/orchids-science-and-culture), and another about the [hope, grief and ambivalence of facing climate change through childhood memories of Northern California’s kelp forests](https://www.thexylom.com/post/no-more-free-kelp-in-northern-california). 
+I'm also a regular contributor to [Oceanbites](https://oceanbites.org/author/ftan/) where I explain current marine biology research with as many bad puns as possible.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I recently graduated with a biology Ph.D. from Caltech, where I researched animal regeneration. My background is in evolution and development, studying all sorts of animal embryos to understand the amazing diversity of form in the natural world. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+If you like weird animals and are curious about the various ways we've felt and spoken about science, you should say hi on twitter, bluesky or mastodon. Tell me your favorite weird animal fact :) 
