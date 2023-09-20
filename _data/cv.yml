@@ -2,96 +2,144 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Fayth Hui Tan
+    - name: Pronouns
+      value: they/them
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D., Biology
+      institution: California Institute of Technology
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Pasadena, CA
+        - title: Thesis
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - The mouse as a limited system of animal regeneration
+    - title: B.S., Marine Biology (hons), magna cum laude
+      institution: University of California, San Diego
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - La Jolla, CA
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Science Writer and Editor
+      institution: Freelance/Contract
+      year: 2020 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+        - Pitch and write science communication-focused features and essays for science communication publications such as The Xylom and Caltech Letters
+        - Won the inaugural National Academy of Sciences Schmidt Award for Excellence in Science Communication for two essays, about the complexity of climate grief and how science and society intersect in the natural history of the bee orchid 
+        - Commissioned by Arcadia Science to write their first newsletter feature about the historical use of metaphor in glial biology 
+        - Finalist in Arcadia Science’s first science communication hackathon, interviewing and collaborating with the Chief Science Officer to write a perspective piece about non-traditional model organisms
+        - Selected for Electric Literature’s Both/And limited essay series, for a piece about scientific objectivity through a reading of Frankenstein
+        - Writer and editor for Oceanbites (10+ posts), communicating recent research in ecology, evolution and biological oceanography at a high-school level 
+       
+- title: Research Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Graduate Researcher, Bronner Lab
+      institution: California Institute of Technology
+      year: 2021 - 2023
+      description:
+        - Investigated the developmental trajectory of a multipotent stem cell population, the cardiac neural crest, at regeneration-competent versus regeneration incompetent ages in neonatal mice
+        - Analyzed single-cell RNA sequencing data of cardiac neural crest in collected from embryonic and neonatal mouse hearts using bioinformatic tools
+   
+    - title: Graduate Researcher, Goentoro Lab
+      institution: California Institute of Technology
+      year: 2018 - 2021
+      description:
+        - Led a project to find a common stimuli to induce appendage regeneration across three divergent animal lineages, mice, flies and jellyfish
+        - Developed and performed protocols to screen small molecules and drugs for regenerative responses in mouse digit regeneration
+
+    - title: Undergraduate Honors Thesis Researcher, Lyons Lab
+      institution: Scripps Institution of Oceanography
+      year: 2017 - 2018
+      description:
+        - Studied Wnt/PCP pathway in early slipper snail embryogenesis
+
+    - title: Undergraduate Researcher, Cooper Lab
+      institution: University of California, San Diego
+      year: 2015 - 2018
+      description:
+        - Studied comparative evolution of limb and spinal elements in mice and the Lesser Egyptian Jerboa
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - National Academy of Sciences, Schmidt Prize for Excellence in Science Communication
+        - Graduate Student, $20,000
+     - year: 2021
       items: 
-        - Max Planck Medal
+        - Arcadia Science, Science Communication Hackathon
+        - Finalist
+    - year: 2018
+      items: 
+        - Phi Beta Kappa Initiate Award
+        - $500
 
-- title: Academic Interests
+- title: Teaching
+  type: time_table
+  contents:
+    - year: 2018 - 2022
+      items: 
+        - Head Teaching Assistant, California Institute of Technology
+        - BI 117, Developmental Biology
+        - Led recitation sections, created 10 original lessons plans, wrote and graded exams and problem sets, mentored 2 teaching assistants
+    - year: 2016
+      items:
+        - Instructional Assistant, University of California San Diego
+        - Led discussion sections, wrote and graded weekly quizzes and problem sets
+        
+- title: Outreach and Advocacy
+  type: time_table
+  contents: 
+    - year: 2021 - 2023
+      items: 
+        - Neurodiversity@Caltech
+    - year: 2020 - 2021
+      items: 
+        - Graduate Student Council, Advocacy Committee
+    - year: 2020
+      items: 
+        - ComSciCon, Los Angeles, Participant
+    
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Technical skills
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - <b>Computational analysis:</b> Python (Numpy, Scipy, pandas) and R for bioinformatic and statistical analysis
+        - <b>Data visualization:</b> ggplot2, matplotlib, bokeh
+        - <b>Computational tools:</b> Jupyter Lab, Google Colab, git/github
+        - <b>Microscopy and imaging:</b> Light and fluorescence microscopy, confocal microscopy
+        - <b>Wet lab skills:</b> Immunohistochemistry, in situ hybridization, basic molecular biology techniques (cloning, PCR, gel electrophoresis), dissection, skeletal preparations, mouse husbandry and breeding
       items:
-        - Description 1.
-        - Description 2.
+        - <b>Popular science communication:</b> Analytical essays, creative non-fiction, explainers, blog posts
+        - <b>Technical writing:</b> Scientific manuscripts, grants and proposals, lab safety protocols
 
-- title: Other Interests
-  type: list
+- title: Popular Science Communication
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: I’m a Transgender Scientist and I See Myself in “Frankenstein”
+      year: 2023
+      description: Electric Literature, Both/And essay series
+    - title: How do you solve a problem like the glia?
+      year: 2022
+      description: Arcadia Science, commissioned feature for Arcadia Science newsletter
+    - title: Can extra energy induce animals to regrow limbs?
+      year: 2022
+      description: eLife Digest, explainer for scientific publication
+    - title: Femininity, Foreignness, and Flowers: How culture shapes scientific discovery
+      year: 2021
+      description: Caltech Letters, NAS Schmidt Award for Excellence in Science Communication winning submission
+    - title: No more free kelp in Northern California
+      year: 2021
+      description: The Xylom, NAS Schmidt Award for Excellence in Science Communication winning submission
+    - title: Actin, algae, and answers in search of a question: a perspective on emerging systems in biology
+      year: 2021
+      description: Arcadia Science, Finalist entry for a scicomm hackathon hosted by Arcadia Science
