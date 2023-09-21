@@ -82,6 +82,20 @@
         - Phi Beta Kappa Initiate Award
         - $500
 
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Technical skills
+      items: 
+        - <b>Computational analysis:</b> Python (Numpy, Scipy, pandas) and R for bioinformatic and statistical analysis
+        - <b>Data visualization:</b> ggplot2, matplotlib, bokeh
+        - <b>Computational tools:</b> Jupyter Lab, Google Colab, git/github
+        - <b>Microscopy and imaging:</b> Light and fluorescence microscopy, confocal microscopy
+        - <b>Wet lab skills:</b> Immunohistochemistry, in situ hybridization, basic molecular biology techniques (cloning, PCR, gel electrophoresis), dissection, skeletal preparations, mouse husbandry and breeding
+      items:
+        - <b>Popular science communication:</b> Analytical essays, creative non-fiction, explainers, blog posts
+        - <b>Technical writing:</b> Scientific manuscripts, grants and proposals, lab safety protocols
+
 - title: Teaching
   type: time_table
   contents:
@@ -107,20 +121,6 @@
     - year: 2020
       items: 
         - ComSciCon, Los Angeles, Participant
-    
-- title: Skills
-  type: nested_list
-  contents:
-    - title: Technical skills
-      items: 
-        - <b>Computational analysis:</b> Python (Numpy, Scipy, pandas) and R for bioinformatic and statistical analysis
-        - <b>Data visualization:</b> ggplot2, matplotlib, bokeh
-        - <b>Computational tools:</b> Jupyter Lab, Google Colab, git/github
-        - <b>Microscopy and imaging:</b> Light and fluorescence microscopy, confocal microscopy
-        - <b>Wet lab skills:</b> Immunohistochemistry, in situ hybridization, basic molecular biology techniques (cloning, PCR, gel electrophoresis), dissection, skeletal preparations, mouse husbandry and breeding
-      items:
-        - <b>Popular science communication:</b> Analytical essays, creative non-fiction, explainers, blog posts
-        - <b>Technical writing:</b> Scientific manuscripts, grants and proposals, lab safety protocols
 
 - title: Popular Science Communication
   type: time_table
